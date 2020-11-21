@@ -1,0 +1,15 @@
+.aboutbox{
+	position: relative;
+}
+.imageLeft{
+	max-height: 200px;
+	position: absolute;
+	top: 15%;
+	left: 20px;
+}
+.contentRight{
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	padding: 20px;
+}

@@ -1,0 +1,10 @@
+#contact{
+		height: 70px;
+		margin: 30px 10px;
+		display: block;
+	{/*	box-shadow: 2px 2px 3px 2px hsl(0,0%,50%);*/}
+		}
+.contact{
+	text-align: center;
+	padding: 15px;
+}
