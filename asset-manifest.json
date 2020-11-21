@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Xebec19/static/css/main.0c19d58f.chunk.css",
+    "main.js": "/Xebec19/static/js/main.00f9c442.chunk.js",
+    "main.js.map": "/Xebec19/static/js/main.00f9c442.chunk.js.map",
+    "runtime-main.js": "/Xebec19/static/js/runtime-main.65c51982.js",
+    "runtime-main.js.map": "/Xebec19/static/js/runtime-main.65c51982.js.map",
+    "static/css/2.185400e2.chunk.css": "/Xebec19/static/css/2.185400e2.chunk.css",
+    "static/js/2.f40fb9ef.chunk.js": "/Xebec19/static/js/2.f40fb9ef.chunk.js",
+    "static/js/2.f40fb9ef.chunk.js.map": "/Xebec19/static/js/2.f40fb9ef.chunk.js.map",
+    "static/js/3.84b0538b.chunk.js": "/Xebec19/static/js/3.84b0538b.chunk.js",
+    "static/js/3.84b0538b.chunk.js.map": "/Xebec19/static/js/3.84b0538b.chunk.js.map",
+    "index.html": "/Xebec19/index.html",
+    "static/css/2.185400e2.chunk.css.map": "/Xebec19/static/css/2.185400e2.chunk.css.map",
+    "static/css/main.0c19d58f.chunk.css.map": "/Xebec19/static/css/main.0c19d58f.chunk.css.map",
+    "static/js/2.f40fb9ef.chunk.js.LICENSE.txt": "/Xebec19/static/js/2.f40fb9ef.chunk.js.LICENSE.txt",
+    "static/media/backgroundG.2ba4854e.png": "/Xebec19/static/media/backgroundG.2ba4854e.png",
+    "static/media/photo.6bb50ec9.png": "/Xebec19/static/media/photo.6bb50ec9.png",
+    "static/media/rajni.c2a3453b.png": "/Xebec19/static/media/rajni.c2a3453b.png",
+    "static/media/robo.bfe2167a.png": "/Xebec19/static/media/robo.bfe2167a.png",
+    "static/media/todo.dd5f5a47.png": "/Xebec19/static/media/todo.dd5f5a47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c51982.js",
+    "static/css/2.185400e2.chunk.css",
+    "static/js/2.f40fb9ef.chunk.js",
+    "static/css/main.0c19d58f.chunk.css",
+    "static/js/main.00f9c442.chunk.js"
+  ]
+}
