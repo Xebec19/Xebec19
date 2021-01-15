@@ -17,8 +17,3 @@ Check out my portfolio (https://rohanthakur.herokuapp.com/).
     data from jsonplaceholder to fill information in the cards.
 3. CRI Pumps :- https://gallant-pasteur-5f7721.netlify.app/
     It is a mobile friendly landing page. Technologies used in this project are ReactJS, tachyons, and netlify.
-4. Shopping List :- https://xebec19.github.io/Shopping-List/
-    It is a simple shopping list which allows a user to append and delete items in a shopping list. Technologies used in this project are 
-    Bootstrap, gh-pages ,and JavaScript
-5. Background Generator :- https://xebec19.github.io/BackgroundGenerator/
-    It allows the user to set the gradient of the background. Technologies used in this project are JavaScript, browserify , gh-pages ,and lodash.
