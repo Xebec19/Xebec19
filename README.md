@@ -1,2 +1,2 @@
-# Hello! I am Rohan Kumar Thakur and I am a Web Developer.
+# Hello! I am Rohan Kumar Thakur and I am a Developer.
 
