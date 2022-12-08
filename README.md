@@ -1,3 +1,6 @@
-# Hello! I am Rohan Kumar Thakur and I am a Developer.
-## portfolio https://rohankumarthakur.notion.site/rohankumarthakur/Rohan-Kumar-Thakur-83a6134a314a4f1ba957adb7f001051b
-## blogs https://xebec19.medium.com/
+# Hello, I am Rohan and I am a developer.
+Connect with me on 
+[LinkedIn](https://www.linkedin.com/in/rohan-kumar-thakur/)
+[Twitter](https://twitter.com/tweets_thakur)
+[Check out my blogs](https://xebec19.medium.com/)
+[Like drawing?](https://www.deviantart.com/rohan-thakur)
