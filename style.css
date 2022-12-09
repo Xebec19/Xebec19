@@ -11,7 +11,6 @@
 
 .box1--container {
   width: 100%;
-  padding-bottom: 1rem;
   padding-top: 1rem;
   display: flex;
   flex-direction: column;
@@ -40,6 +39,142 @@
 }
 
 .box1--heading {
-    font-weight: 300;
-    color: var(--dark1);
+  font-weight: 300;
+  color: var(--dark1);
+  font-size: 18px;
+}
+
+.box2--container {
+  padding: 1rem;
+}
+
+.box2--title {
+  color: val(--dark1);
+  font-size: 16px;
+  color: var(--dark1);
+  padding-bottom: 1rem;
+}
+
+.box2--text {
+  color: var(--light1);
+  word-break: break-word;
+  padding-left: 1rem;
+  border-left: 5px solid var(--light2);
+}
+
+.box3--container {
+  background-color: var(--dark1);
+  padding: 1rem;
+  color: white;
+}
+
+.box3--title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.box3--project {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project--desc{
+  margin-left: 2rem;
+}
+
+.project--image {
+  height: 150px;
+  border-radius: 5px;
+  object-fit: fill;
+  padding: 0rem 1rem 1rem 0px;
+}
+
+.project--name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.project--subtitle {
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+.project--desc > ol {
+  padding-top: 0.5rem;
+  word-break: break-word;
+  font-size: 12px;
+  font-weight: lighter;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
+}
+
+.project--link {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.project--link:hover {
+  color: var(--light2);
+}
+
+.box4--container {
+  padding: 1rem;
+}
+
+.box4--form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box4--inputs{
+  display: flex;
+  padding-right: 1rem;
+  flex-direction: column;
+}
+
+.box4--form input {
+  margin: 0.5rem 0rem;
+}
+
+.box4--form textarea {
+  margin: 0.5rem 0rem;
+}
+
+.box4--submit {
+  border: none;
+  color: var(--dark1);
+}
+
+.box4--reset {
+  border: none;
+  color: var(--dark1);
+}
+
+.box4--submit:active{
+  color: var(--light2);
+}
+
+.box4--reset:active{
+  color: var(--light2)
+}
+
+.box5--container{
+  background-color: var(--light2);
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  color: var(--dark1);
+}
+
+.box5--address{
+  margin: 0px;
+  padding: 0px;
+}
+
+.box5--social{
+  text-align: right;
+  padding: 0px;
+  margin: 0px;
 }
