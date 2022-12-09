@@ -3,10 +3,15 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 :root {
   --dark1: #3b4d61;
   --light1: #6b7b8c;
   --light2: #ef9d10;
+  --maxWidth: 500px;
 }
 
 .box1--container {
@@ -79,7 +84,7 @@
   justify-content: space-between;
 }
 
-.project--desc{
+.project--desc {
   margin-left: 2rem;
 }
 
@@ -113,6 +118,7 @@
 .project--link {
   font-size: 12px;
   font-weight: bold;
+  color: white;
 }
 
 .project--link:hover {
@@ -128,7 +134,7 @@
   justify-content: space-between;
 }
 
-.box4--inputs{
+.box4--inputs {
   display: flex;
   padding-right: 1rem;
   flex-direction: column;
@@ -152,29 +158,51 @@
   color: var(--dark1);
 }
 
-.box4--submit:active{
+.box4--submit:active {
   color: var(--light2);
 }
 
-.box4--reset:active{
-  color: var(--light2)
+.box4--reset:active {
+  color: var(--light2);
 }
 
-.box5--container{
+.box5--container {
   background-color: var(--light2);
+}
+
+.box5--wrapper {
   padding: 1rem;
   display: flex;
   justify-content: space-between;
   color: var(--dark1);
 }
 
-.box5--address{
+.box5--address {
   margin: 0px;
   padding: 0px;
 }
 
-.box5--social{
+.box5--social {
   text-align: right;
   padding: 0px;
   margin: 0px;
+}
+
+.box5--social a {
+  color: var(--dark1);
+}
+
+@media only screen and (min-width: 500px) {
+  .box2--container {
+    max-width: var(--maxWidth);
+  }
+  .box3--wrapper {
+    max-width: var(--maxWidth);
+  }
+  .box4--form {
+    max-width: var(--maxWidth);
+  }
+  .box5--wrapper {
+    max-width: var(--maxWidth);
+  }
 }

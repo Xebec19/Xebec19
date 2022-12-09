@@ -37,40 +37,53 @@
       </p>
     </section>
     <section class="box3--container">
-      <h2 class="box3--title">Projects</h2>
-      <div class="box3--project">
-        <img
-          src="./assets/bazaar-mobile.png"
-          alt="project screen shot"
-          class="project--image"
-        />
-        <div class="project--desc">
-          <h3 class="project--name">Bazaar</h3>
-          <p class="project--subtitle">An ecommerce website</p>
-          <ol>
-            <li>SSR with angular universal</li>
-            <li>Postgresql and angular universal for database management</li>
-            <li>Algolia for search index and inventory management</li>
-            <li>Razorpay for payment gateway</li>
-          </ol>
-          <p class="project--link">Have a look</p>
+      <div class="box3--wrapper">
+        <h2 class="box3--title">Projects</h2>
+        <div class="box3--project">
+          <img
+            src="./assets/bazaar-mobile.png"
+            alt="project screen shot"
+            class="project--image"
+          />
+          <div class="project--desc">
+            <h3 class="project--name">Bazaar</h3>
+            <p class="project--subtitle">An ecommerce website</p>
+            <ol>
+              <li>SSR with angular universal</li>
+              <li>Postgresql and angular universal for database management</li>
+              <li>Algolia for search index and inventory management</li>
+              <li>Razorpay for payment gateway</li>
+            </ol>
+            <a
+              href="https://github.com/Xebec19/studious-octo-funicular"
+              class="project--link"
+              target="_blank"
+              >Have a look</a
+            >
+          </div>
         </div>
       </div>
     </section>
     <section class="box4--container">
-      <form class="box4--form" action="" method="post">
+      <form
+        class="box4--form"
+        action="https://formsubmit.co/624954ff1238b8be5908b308fea08682"
+        method="post"
+      >
         <div class="box4--inputs">
           <input
             name="email"
-            type="text"
+            type="email"
+            required
             class="box4--input"
             placeholder="Email"
           />
           <input
-            name="subject"
+            name="name"
             type="text"
+            required
             class="box4--input"
-            placeholder="Subject"
+            placeholder="Full Name"
           />
           <span>
             <input type="submit" name="form--submit" class="box4--submit" />
@@ -78,7 +91,7 @@
           </span>
         </div>
         <textarea
-          name="email-body"
+          name="message"
           placeholder="Enter message"
           id="id-email-body"
           cols="30"
@@ -87,15 +100,27 @@
       </form>
     </section>
     <section class="box5--container">
-      <p class="box5--address">
-        4971, Roshanara Road<br />
-        Delhi, India<br />
-        7291003805
-      </p>
-      <div class="box5--social">
-        <p>Whatsapp</p>
-        <p>LinkedIn</p>
-        <p>Twitter</p>
+      <div class="box5--wrapper">
+        <p class="box5--address">
+          4971, Roshanara Road<br />
+          Delhi, India<br />
+          7291003805
+        </p>
+        <div class="box5--social">
+          <a
+            href="https://api.whatsapp.com/send?phone=917291003805"
+            target="_blank"
+            >Whatsapp</a
+          ><br />
+          <a
+            href="https://www.linkedin.com/in/rohan-kumar-thakur-ba6373194/"
+            target="_blank"
+            >LinkedIn</a
+          ><br />
+          <a href="https://twitter.com/tweets_thakur" target="_blank"
+            >Twitter</a
+          >
+        </div>
       </div>
     </section>
   </body>
