@@ -9,4 +9,16 @@ $(document).ready(function () {
     $(this).css({ display: "none" });
     $(this).next().css({ display: "inline" });
   });
+
+  // open dayschedule pop up when user clicks on create-meeting
+  $("#create-meeting").on("click", function () {
+    daySchedule.initPopupWidget({
+      url: "https://rohankumarthakur.dayschedule.com",
+      type: "popup",
+      color: {
+        primary: "#0f0980",
+        secondary: "#afeefe",
+      },
+    });
+  });
 });
