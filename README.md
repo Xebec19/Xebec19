@@ -8,7 +8,7 @@
 
 ---
 
-I am a full stack developer currently working at [Outscal](https://academy.outscal.com/), where I am involved in developing web applications using technologies such as React, Node.js, and MongoDB. Additionally, I actively use Golang and PostgreSQL in my personal projects.
+I am a full stack developer currently working at [Vectoredge](https://vectoredge.io/), where I am involved in developing web applications using technologies such as React, Go, and AWS. Additionally, I actively use Nodejs and PostgreSQL in my personal projects.
 
 When I'm not coding, you can find me indulging in my passion for manga and reading new titles in my free time.
 
