@@ -13,3 +13,5 @@ I am a full-stack developer developing web applications using technologies such 
 When I'm not coding, you can find me indulging in my passion for manga and reading new titles in my free time.
 
 I'm always excited to collaborate on new projects and expand my skill set. Feel free to browse my repositories and get in touch with me if you'd like to work together!
+
+![](https://komarev.com/ghpvc/?username=xebec19)
