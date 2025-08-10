@@ -1,3 +1,6 @@
+<img width="1280" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7b6f1483-5bc9-4a1f-86df-2f8be9f79616" />
+
+
 <h3 align="center">👋 Hi, I'm Rohan.</h3>
 
 <p align="center">
